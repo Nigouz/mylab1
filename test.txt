@@ -1,3 +1,5 @@
 testing
 
 new line
+
+new line diff
